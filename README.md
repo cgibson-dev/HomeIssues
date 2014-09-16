@@ -1,6 +1,5 @@
-House
+Home-Issues
 =====
-Meant to hold issues with our house.
+Currently used to keep track of issues that occur at home.
 
-Edit to test campfire.
-
+This will also be used for other issues (car, misc, etc.)
